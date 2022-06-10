@@ -1,4 +1,4 @@
-# ee209SmartEnergyMonitor
+# Smart Energy Monitor Team 16
 Smart Energy Monitor Project for University (ELECTENG 209)
 ###### Authors: Rachel Nataatmadja, Shou Miyamoto, Francis Cho, Martin Wu 
 University group project that develops an energy monitor to measure and display the amount of energy consumed by a household appliance.
